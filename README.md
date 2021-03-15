@@ -6,6 +6,8 @@ This framework is made for developers, it has a stable base and very optimized!
 
 ### Installing:
 
+**Don't forget the .SQL file!**
+
 Just plug and play!
 
 It needs the db driver that you can found here:
