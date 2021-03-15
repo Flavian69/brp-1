@@ -35,6 +35,7 @@ Depends on your like, we developed it for efficiency and for making an optimized
 
 Well, as we started to work, we thought that we need something fast, robust and easy to use, so we made it by ESX Framework Proxy and Tunnel linking and combining them with oldvRP modules! 
 We thought that the developers need something restartable, so we made it restartable.
+And many features...
 
 ### Why it doesn't have any menu or GUI?
 
