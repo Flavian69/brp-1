@@ -19,10 +19,10 @@ function module(rsc, path) -- load a LUA resource file as module
         return table.unpack(ar)
       else
         modules[key] = nil
-        print("[vRP] error loading module "..rsc.."/"..path..":"..ar[2])
+        print("[BRP] error loading module "..rsc.."/"..path..":"..ar[2])
       end
     else
-      print("[vRP] error parsing module "..rsc.."/"..path..":"..err)
+      print("[BRP] error parsing module "..rsc.."/"..path..":"..err)
     end
   end
 end
