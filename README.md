@@ -9,7 +9,7 @@ This framework is made for developers, it has a stable base and very optimized!
 Just plug and play!
 
 It needs the db driver that you can found here:
-https://github.com/BRP-Developers/brp-DBDrivers
+https://github.com/BRP-Developers/brp-DBDriver
 
 ### Functions:
 
