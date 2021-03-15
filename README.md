@@ -51,7 +51,7 @@ Yes, it can be, but we are asking creators to not forget about our credits.
 (EXAMPLE: I've made this script based on BRP Framework.)
 
 ### There will be updates?
-Yes, and will be a lot of them. :slight_smile:
+Yes, and will be a lot of them. :)
 
 ### There is a discord server for Support?
 Yes, here it is: https://discord.io/brp-support
